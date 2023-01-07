@@ -138,5 +138,5 @@ function knightTravails() {
 
 export { knightTravails };
 
-let test = knightTravails();
-test.knightMoves([3, 3], [3, 3]);
+// let test = knightTravails();
+// test.knightMoves([3, 3], [3, 3]);
